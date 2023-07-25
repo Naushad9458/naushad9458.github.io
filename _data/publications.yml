@@ -2,8 +2,7 @@ main:
 
   - title: "Memento 3.0: An Enhanced Lifelog Search Engine for LSC’23"
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
-    conference: Proceedings of the 6th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval
-    <strong>(ICMR)</strong>, Thessaloniki, Greece, 2023
+    conference: Proceedings of the 6th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Thessaloniki, Greece, 2023
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
