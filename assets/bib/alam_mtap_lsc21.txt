@@ -1,0 +1,11 @@
+@article{alam_memento_2023,
+title = {Memento: a prototype search engine for {LSC} 2021},
+issn = {1573-7721},
+url = {https://doi.org/10.1007/s11042-023-15067-9},
+doi = {10.1007/s11042-023-15067-9},
+abstract = {In this extended paper, we describe our lifelog retrieval system called Memento which participated in the 2021 Lifelog Search Challenge in detail. Memento leverages semantic representations of images and textual queries projected into a common latent space to facilitate effective retrieval, aiming to bridge the existing semantic gap between complex visual scenes/events and user information needs expressed as textual and faceted queries. Our system also has a minimalist user interface which includes functionalities such as visual data filtering and temporal search. Finally, we include a comparative analysis of Memento’s performance at LSC 2021 and suggest improvements for future iterations of the system.},
+journal = {Multimedia Tools and Applications},
+author = {Alam, Naushad and Graham, Yvette},
+month = apr,
+year = {2023},
+}

@@ -1,0 +1,15 @@
+@inproceedings{tran_exploration_2022,
+address = {Graz Austria},
+title = {An {Exploration} into the {Benefits} of the {CLIP} model for {Lifelog} {Retrieval}},
+isbn = {978-1-4503-9720-9},
+url = {https://dl.acm.org/doi/10.1145/3549555.3549593},
+doi = {10.1145/3549555.3549593},
+language = {en},
+urldate = {2023-07-25},
+booktitle = {International {Conference} on {Content}-based {Multimedia} {Indexing}},
+publisher = {ACM},
+author = {Tran, Ly-Duyen and Alam, Naushad and Graham, Yvette and Vo, Linh Khanh and Diep, Nghiem Tuong and Nguyen, Binh and Zhou, Liting and Gurrin, Cathal},
+month = sep,
+year = {2022},
+pages = {15--22}
+}

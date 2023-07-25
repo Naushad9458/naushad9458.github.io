@@ -1,0 +1,16 @@
+@inproceedings{alam_memento_2023,
+address = {Thessaloniki Greece},
+title = {Memento 3.0: {An} {Enhanced} {Lifelog} {Search} {Engine} for {LSC}’23},
+isbn = {9798400701887},
+shorttitle = {Memento 3.0},
+url = {https://dl.acm.org/doi/10.1145/3592573.3593103},
+doi = {10.1145/3592573.3593103},
+language = {en},
+urldate = {2023-07-25},
+booktitle = {Proceedings of the 6th {Annual} {ACM} {Lifelog} {Search} {Challenge}},
+publisher = {ACM},
+author = {Alam, Naushad and Graham, Yvette and Gurrin, Cathal},
+month = jun,
+year = {2023},
+pages = {41--46}
+}
