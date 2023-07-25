@@ -1,0 +1,8 @@
+@article{alam_dcu_ntcir_2022,
+title = {{DCU} at the {NTCIR16} {Lifelog}-4 {Task}},
+abstract = {In this paper, we present two systems from DCU named DCUMemento and DCUVOX that earlier participated in the 2021 edition of the Lifelog Search Challenge and were redeveloped to participate in the NTCIR-16 Lifelog-4 task. Both systems use image-text embeddings from various CLIP models to build their search backend with DCUVOX using the ViT-B/32 model while DCUMemento uses a weighted ensemble of scores from ViT-L/14 and ResNet-50x64 models. The paper also discusses the query reformulation strategy used by the systems in addition to the system architecture. Finally, we present the results of our evaluation and discuss limitations of both systems with details of improvements planned for future iterations.},
+language = {en},
+author = {Alam, Naushad and Alateeq, Ahmed and Graham, Yvette and Roantree, Mark and Gurrin, Cathal},
+year = {2022},
+pages = {5},
+}

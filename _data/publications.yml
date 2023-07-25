@@ -3,39 +3,38 @@ main:
   - title: "Memento 3.0: An Enhanced Lifelog Search Engine for LSC’23"
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
     conference: Proceedings of the 6th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Thessaloniki, Greece, 2023
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3592573.3593103
+    bibtex: assets/bib/alam_memento_lsc23.txt
 
   - title: "Memento: A prototype search engine for LSC 2021"
     authors: Naushad Alam, Yvette Graham
     conference: Advances in Lifelog Retrieval at the Lifelog Search Challenge 2021, Multimedia Tools and Applications
     pdf: https://link.springer.com/article/10.1007/s11042-023-15067-9
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: assets/bib/alam_mtap_lsc21.txt
 
   - title: "An Exploration into the Benefits of the CLIP model for Lifelog Retrieval"
     authors: Ly-Duyen Tran, Naushad Alam, Linh Khanh Vo, Nghiem Tuong Diep, Binh Nguyen, Yvette Graham, Liting Zhou, Cathal Gurrin
     conference: Proceedings of the 19th International Conference on Content-based Multimedia Indexing <strong>(CBMI)</strong>, Graz, Austria 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3549555.3549593
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: assets/bib/duyen_alam_clip.txt
 
   - title: "Memento 2.0: An Improved Lifelog Search Engine for LSC'22"
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
     conference: Proceedings of the 5th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Newark, NJ, USA 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3512729.3533006
-    bibtex: assets/bib/memento_lsc22.txt
+    bibtex: assets/bib/alam_memento_lsc22.txt
   
   - title: "DCU at the NTCIR16 Lifelog-4 Task"
     authors: Naushad Alam, Ahmed Alateeq, Yvette Graham, Mark Roantree, Cathal Gurrin
     conference:  Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies, Tokyo, Japan 2022.
     pdf: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/04-NTCIR16-LIFELOG-AlamN.pdf
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: assets/bib/alam_dcu_ntcir16.txt
   
   - title: "Memento: A Prototype Lifelog Search Engine for LSC'21"
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
     conference: Proceedings of the 4th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Taipei, Taiwan 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3463948.3469069
-    bibtex: assets/bib/memento_lsc21.txt
+    bibtex: assets/bib/alam_memento_lsc21.txt
 
 
 
