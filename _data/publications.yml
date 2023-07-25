@@ -16,7 +16,7 @@ main:
     authors: Ly-Duyen Tran, Naushad Alam, Linh Khanh Vo, Nghiem Tuong Diep, Binh Nguyen, Yvette Graham, Liting Zhou, Cathal Gurrin
     conference: Proceedings of the 19th International Conference on Content-based Multimedia Indexing <strong>(CBMI)</strong>, Graz, Austria 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3549555.3549593
-    bibtex: assets/bib/duyen_alam_clip.txt
+    bibtex: assets/bib/duyen_alam_clip_cbmi.txt
 
   - title: "Memento 2.0: An Improved Lifelog Search Engine for LSC'22"
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
