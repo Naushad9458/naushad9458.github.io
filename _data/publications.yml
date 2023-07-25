@@ -9,8 +9,36 @@ main:
 
   - title: "Memento: A prototype search engine for LSC 2021"
     authors: Naushad Alam, Yvette Graham
-    conference: Multimedia Tools and Applications
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference: Advances in Lifelog Retrieval at the Lifelog Search Challenge 2021, Multimedia Tools and Applications
+    pdf: https://link.springer.com/article/10.1007/s11042-023-15067-9
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+
+  - title: "An Exploration into the Benefits of the CLIP model for Lifelog Retrieval"
+    authors: Ly-Duyen Tran, Naushad Alam, Linh Khanh Vo, Nghiem Tuong Diep, Binh Nguyen, Yvette Graham, Liting Zhou, Cathal Gurrin
+    conference: Proceedings of the 19th International Conference on Content-based Multimedia Indexing <strong>(CBMI)</strong>, Graz, Austria 2022.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3549555.3549593
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+
+  - title: "Memento 2.0: An Improved Lifelog Search Engine for LSC'22"
+    authors: Naushad Alam, Yvette Graham, Cathal Gurrin
+    conference: Proceedings of the 5th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Newark, NJ, USA 2022.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3512729.3533006
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  
+  - title: "DCU at the NTCIR16 Lifelog-4 Task"
+    authors: Naushad Alam, Ahmed Alateeq, Yvette Graham, Mark Roantree, Cathal Gurrin
+    conference:  Proceedings of the 16th NTCIR Conference on Evaluation of Information Access Technologies, Tokyo, Japan 2022.
+    pdf: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/04-NTCIR16-LIFELOG-AlamN.pdf
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  
+  - title: "Memento: A Prototype Lifelog Search Engine for LSC'21"
+    authors: Naushad Alam, Yvette Graham, Cathal Gurrin
+    conference: Proceedings of the 4th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Taipei, Taiwan 2021.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3463948.3469069
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+
+
+
+    
     
     
