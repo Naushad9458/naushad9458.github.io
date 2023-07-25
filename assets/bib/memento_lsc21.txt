@@ -1,0 +1,17 @@
+@inproceedings{alam_memento_lsc2021,
+author = {Alam, Naushad and Graham, Yvette and Gurrin, Cathal},
+title = {Memento: A Prototype Lifelog Search Engine for LSC'21},
+year = {2021},
+isbn = {9781450385336},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3463948.3469069},
+doi = {10.1145/3463948.3469069},
+abstract = {In this paper, we introduce a new lifelog retrieval system called Memento that leverages semantic representations of images and textual queries projected into a common latent space to facilitate effective retrieval. It bridges the semantic gap between complex visual scenes/events and user information needs expressed as textual and faceted queries. The system, developed for the 2021 Lifelog Search Challenge, also has a minimalist user interface that includes primary search, temporal search, and visual data filtering components.},
+booktitle = {Proceedings of the 4th Annual on Lifelog Search Challenge},
+pages = {53–58},
+numpages = {6},
+keywords = {information system, search interface, information retrieval, semantic image representation},
+location = {Taipei, Taiwan},
+series = {LSC '21}
+}
