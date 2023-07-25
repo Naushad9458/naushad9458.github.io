@@ -23,7 +23,7 @@ main:
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
     conference: Proceedings of the 5th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Newark, NJ, USA 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3512729.3533006
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: assets/bib/memento_lsc22.txt
   
   - title: "DCU at the NTCIR16 Lifelog-4 Task"
     authors: Naushad Alam, Ahmed Alateeq, Yvette Graham, Mark Roantree, Cathal Gurrin
@@ -35,7 +35,7 @@ main:
     authors: Naushad Alam, Yvette Graham, Cathal Gurrin
     conference: Proceedings of the 4th Annual ACM Lifelog Search Challenge, International Conference on Multimedia Retrieval <strong>(ICMR)</strong>, Taipei, Taiwan 2021.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3463948.3469069
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: assets/bib/memento_lsc21.txt
 
 
 
